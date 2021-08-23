@@ -1,3 +1,4 @@
 # hotdog
 Each of the following .rar files (ABM1 - ABM2 - ABM3) contains the different architectures (Centralized - Tree - Distributed) for the WSN with each 3 types of delay messages, and ABM is abbreviation of agent-based model, we did the simulation under 3 different environment simulations.
 The goal of the project is to Study the effects and impact of the environment changes on the WSN performance under different archtiectures and CPU modes.
+The Results folder contains Screenshots of power consumption of the 27 different scenarios, each screenshot is named  in the formm of #-#-# first letter indicates the architecture (D for distributed - C for centralized - H for hierarchical/tree), second letter for the CPU/message delay (S for slow - M for average - F for fast) and lastly a number indicating which agent-based environment model was applied (1 - 2 - 3)
